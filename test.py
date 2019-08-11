@@ -1,1 +1,2 @@
-print("Cherio, Test file")
+name = input("Enter a name")
+print("Cherio " + name + "!")
